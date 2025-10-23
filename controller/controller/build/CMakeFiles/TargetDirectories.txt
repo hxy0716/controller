@@ -1,0 +1,3 @@
+D:/VSC code/C++/controller/build/CMakeFiles/anomaly_monitoring_controller.dir
+D:/VSC code/C++/controller/build/CMakeFiles/edit_cache.dir
+D:/VSC code/C++/controller/build/CMakeFiles/rebuild_cache.dir
